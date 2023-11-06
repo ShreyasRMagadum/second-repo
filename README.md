@@ -1,2 +1,3 @@
 # second-repo
-learning how to use this shit.
+learning how to use this shizz.
+cocker is hard!
