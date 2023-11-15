@@ -1,6 +1,6 @@
 # second-repo
-learning how to use this shizz.
+learning how to use.
 <br>
-cocker is hard!
+docker is hard!
 <br>
 time to read vs code
